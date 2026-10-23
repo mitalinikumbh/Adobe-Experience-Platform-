@@ -6,4 +6,4 @@ This repository explores AEP concepts by understanding how they apply to practic
 
 
 ## Disclaimer
-This repository is an independent learning initiative focused on exploring Adobe Experience Platform through practical scenarios and technical examples. The content reflects my learning and understanding of the platform and is intended to support knowledge sharing. Adobe Experience Platform and related product names are trademarks of Adobe. This repository is not affiliated with or endorsed by Adobe.
+This repository is an independent learning initiative focused on exploring Adobe Experience Platform through practical scenarios and technical examples. The content reflects my learning and understanding of the platform and is intended to support knowledge sharing. Adobe Experience Platform and related product names are trademarks of Adobe.
